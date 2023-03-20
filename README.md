@@ -34,5 +34,8 @@
 
  [<img src="assets/linkedin.png" width="48px" height="48px" style="margin-right:8px">](https://www.linkedin.com/in/alessandro-cavaliere41/)
  [<img src="assets/github.png" width="48px" height="48px" style="margin-right:8px">](https://github.com/Alessandro-Cavaliere)
+</div>
+<div>
 
+![Profile Views](https://komarev.com/ghpvc/?username=Alessandro-Cavaliere&style=for-the-badge&color=red)
 </div>
