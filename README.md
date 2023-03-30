@@ -11,7 +11,7 @@
 
 <div>
 
-![My Skills](https://skills.thijs.gg/icons?i=java,py,js,c,nodejs,mongodb,mysql,git)
+![My Skills](https://skills.thijs.gg/icons?i=java,py,js,c,nodejs,go,mongodb,mysql,git,php,laravel)
 <img src="assets/postman.png" width="48px" height="48px" style="margin-right:8px"/>
 </div>
 
@@ -26,7 +26,9 @@
 [<img src="assets/solidity.png" width="48px" height="48px" style="margin-right:8px"/>](https://soliditylang.org/)
 [<img src="assets/truffle.png" width="48px" height="48px" style="margin-right:8px"/>](https://trufflesuite.com/truffle/)
 [<img src="assets/metamask.png" width="48px" height="48px" style="margin-right:8px"/>](https://metamask.io/)
+[<img src="assets/geth.png" width="48px" height="48px" style="margin-right:8px"/>](https://geth.ethereum.org/)
 [<img src="assets/ganache.png" width="48px" height="48px" style="margin-right:8px"/>](https://trufflesuite.com/ganache/)
+[<img src="assets/fabric.png" width="48px" height="48px" style="margin-right:8px"/>](https://www.hyperledger.org/use/fabric)
 </div>
 
 ### ❣️ Let's get connected:
@@ -34,6 +36,7 @@
 
  [<img src="assets/linkedin.png" width="48px" height="48px" style="margin-right:8px">](https://www.linkedin.com/in/alessandro-cavaliere41/)
  [<img src="assets/github.png" width="48px" height="48px" style="margin-right:8px">](https://github.com/Alessandro-Cavaliere)
+ [<img src="assets/gitlab.png" width="48px" height="48px" style="margin-right:8px">](https://gitlab.com/Alessandro-Cavaliere)
 </div>
 <div>
 
