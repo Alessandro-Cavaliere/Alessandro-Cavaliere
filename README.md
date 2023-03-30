@@ -20,15 +20,17 @@
 
 ![My Skills](https://skills.thijs.gg/icons?i=react,ts,js,html,css)
 
-### Blockchain Skills and Tools:
+### Blockchain Skills, Tools and Libraries:
 <div>
 
 [<img src="assets/solidity.png" width="48px" height="48px" style="margin-right:8px"/>](https://soliditylang.org/)
+[<img src="assets/web3js.png" width="48px" height="48px" style="margin-right:8px"/>](https://web3js.readthedocs.io/en/v1.8.2/)
 [<img src="assets/truffle.png" width="48px" height="48px" style="margin-right:8px"/>](https://trufflesuite.com/truffle/)
 [<img src="assets/metamask.png" width="48px" height="48px" style="margin-right:8px"/>](https://metamask.io/)
 [<img src="assets/geth.png" width="48px" height="48px" style="margin-right:8px"/>](https://geth.ethereum.org/)
 [<img src="assets/ganache.png" width="48px" height="48px" style="margin-right:8px"/>](https://trufflesuite.com/ganache/)
 [<img src="assets/fabric.png" width="48px" height="48px" style="margin-right:8px"/>](https://www.hyperledger.org/use/fabric)
+[<img src="assets/hardhat.png" width="48px" height="48px" style="margin-right:8px"/>](https://hardhat.org/)
 </div>
 
 ### ❣️ Let's get connected:
