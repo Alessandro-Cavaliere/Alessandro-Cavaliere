@@ -31,6 +31,10 @@
 [<img src="assets/ganache.png" width="48px" height="48px" style="margin-right:8px"/>](https://trufflesuite.com/ganache/)
 [<img src="assets/fabric.png" width="48px" height="48px" style="margin-right:8px"/>](https://www.hyperledger.org/use/fabric)
 [<img src="assets/hardhat.png" width="48px" height="48px" style="margin-right:8px"/>](https://hardhat.org/)
+[<img src="assets/bip32.png" width="48px" height="48px" style="margin-right:8px"/>](https://github.com/bitcoin/bips/blob/master/bip-0032.mediawiki)
+[<img src="assets/solana.png" width="48px" height="48px" style="margin-right:8px"/>](https://github.com/solana-labs/solana-web3.js)
+[<img src="assets/monero.png" width="48px" height="48px" style="margin-right:8px"/>](https://github.com/monero-ecosystem/monero-javascript)
+
 </div>
 
 ### ❣️ Let's get connected:
