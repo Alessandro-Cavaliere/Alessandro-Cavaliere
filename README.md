@@ -11,8 +11,7 @@
 
 <div>
 
-![My Skills](https://skillicons.dev/icons?i=java,py,js,c,nodejs,go,mongodb,mysql,git,php,laravel)
-<img src="assets/postman.png" width="48px" height="48px" style="margin-right:8px"/>
+![My Skills](https://skillicons.dev/icons?i=java,py,js,c,nodejs,go,mongodb,mysql,git,php,laravel,postman)
 </div>
 
 
