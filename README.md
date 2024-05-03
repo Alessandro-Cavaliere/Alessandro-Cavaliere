@@ -1,7 +1,8 @@
 <h1 align="center">Hi there, I'm Alessandro. <br>Welcome to my GitHub profile  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"></h1>
 
 <h2><p> 👨🏻‍💻 About me:</p></h2>
-<p>Blockchain Developer, CyberSecurity Master student and CyberChallenge.IT 2024 student 💻 at the University of Salerno, passionate about computer science and, therefore, also about innovation⚡. In this regard, I am always looking for new stimuli and new technologies to explore🚀.
+<p>Blockchain Developer, CyberSecurity Master student and CyberChallenge.IT 2024 student 💻 at the University of Salerno, passionate about computer science and, therefore, also about innovation⚡.
+In this regard, I am always looking for new stimuli and new technologies to explore🚀.
 
 🎯In recent years my interest has shifted towards the world of Blockchain and Web 3.0<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></p>
 
