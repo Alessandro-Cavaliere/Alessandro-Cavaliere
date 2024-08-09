@@ -6,7 +6,7 @@
 🔐 I decided to delve into the issues of security and privacy in the blockchain field. Therefore, I chose to dedicate my master's thesis to <b>Zero Knowledge Proof</b> and the <b>auditing</b> of smart contracts that use them </p>
 
 
-<h2><p> 🛠 My programming language skills:</p></h2>
+<h2><p> 🛠 My technical skills:</p></h2>
 
 ### Back End:
 
@@ -20,20 +20,37 @@
 
 ![My Skills](https://skillicons.dev/icons?i=react,ts,js,html,css)
 
+
+### Cyber Security Tools :
+
+[<img src="assets/burp-suite.svg" width="52px" height="52px" style="margin-right:8px"/>](https://portswigger.net/burp)
+[<img src="assets/wireshark.svg" width="50px" height="50px" style="margin-right:8px"/>](https://www.wireshark.org/)
+[<img src="assets/ghidra.svg" width="50px" height="50px" style="margin-right:8px"/>](https://ghidra-sre.org/)
+[<img src="assets/nmap.svg" width="48px" height="48px" style="margin-right:8px"/>](https://nmap.org/)
+[<img src="assets/gdb.svg" width="48px" height="48px" style="margin-right:8px"/>](https://www.sourceware.org/gdb/)
+[<img src="assets/nessus.png" width="55px" height="55px" style="margin-right:8px"/>](https://www.tenable.com/products/nessus)
+[<img src="assets/SQLMap.png" width="48px" height="48px" style="margin-right:8px"/>](https://sqlmap.org/)
+
+
+
 ### Blockchain Skills, Tools and Libraries:
 <div>
 
 [<img src="assets/solidity.png" width="48px" height="48px" style="margin-right:8px"/>](https://soliditylang.org/)
 [<img src="assets/web3js.png" width="48px" height="48px" style="margin-right:8px"/>](https://web3js.readthedocs.io/en/v1.8.2/)
-[<img src="assets/truffle.png" width="48px" height="48px" style="margin-right:8px"/>](https://trufflesuite.com/truffle/)
 [<img src="assets/metamask.png" width="48px" height="48px" style="margin-right:8px"/>](https://metamask.io/)
 [<img src="assets/geth.png" width="48px" height="48px" style="margin-right:8px"/>](https://geth.ethereum.org/)
 [<img src="assets/ganache.png" width="48px" height="48px" style="margin-right:8px"/>](https://trufflesuite.com/ganache/)
 [<img src="assets/fabric.png" width="48px" height="48px" style="margin-right:8px"/>](https://www.hyperledger.org/use/fabric)
+[<img src="assets/truffle.png" width="48px" height="48px" style="margin-right:8px"/>](https://trufflesuite.com/truffle/)
 [<img src="assets/hardhat.png" width="48px" height="48px" style="margin-right:8px"/>](https://hardhat.org/)
+[<img src="assets/foundry.png" width="52px" height="52px" style="margin-right:8px"/>](https://github.com/foundry-rs/foundry)
 [<img src="assets/bip32.png" width="48px" height="48px" style="margin-right:8px"/>](https://github.com/bitcoin/bips/blob/master/bip-0032.mediawiki)
-[<img src="assets/solana.png" width="48px" height="48px" style="margin-right:8px"/>](https://github.com/solana-labs/solana-web3.js)
-[<img src="assets/monero.png" width="48px" height="48px" style="margin-right:8px"/>](https://github.com/monero-ecosystem/monero-javascript)
+[<img src="assets/bitcoin.svg" width="48px" height="48px" style="margin-right:8px"/>](https://bitcoin.org/it/)
+[<img src="assets/ethereum.svg" width="48px" height="48px" style="margin-right:8px"/>](https://ethereum.org/it/)
+[<img src="assets/binance.svg" width="48px" height="48px" style="margin-right:8px"/>](https://www.bnbchain.org/en)
+[<img src="assets/solana.png" width="48px" height="48px" style="margin-right:8px"/>](https://solana.com/)
+[<img src="assets/monero.png" width="48px" height="48px" style="margin-right:8px"/>](https://www.getmonero.org/)
 
 </div>
 
@@ -41,8 +58,10 @@
 <div>
 
  [<img src="assets/linkedin.png" width="48px" height="48px" style="margin-right:8px">](https://www.linkedin.com/in/alessandro-cavaliere41/)
- [<img src="assets/github.png" width="48px" height="48px" style="margin-right:8px">](https://github.com/Alessandro-Cavaliere)
+ [<img src="assets/x.svg" width="48px" height="48px" style="margin-right:8px">](https://x.com/alessandrocav41)
+ [<img src="assets/github.svg" width="48px" height="48px" style="margin-right:8px">](https://github.com/Alessandro-Cavaliere)
  [<img src="assets/gitlab.png" width="48px" height="48px" style="margin-right:8px">](https://gitlab.com/Alessandro-Cavaliere)
+ [<img src="assets/stackoverflow.svg" width="48px" height="48px" style="margin-right:8px">](https://ethereum.stackexchange.com/users/99780/alexcav)
 </div>
 <div>
 
