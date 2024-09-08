@@ -3,7 +3,9 @@
 <h2><p> 👨🏻‍💻 About me:</p></h2>
 <p>📚 <b>Blockchain Developer</b>, <b>CyberSecurity Master student</b> at the University of Salerno and <b>CyberChallenge.IT</b> 2024 finalist 💻, passionate about computer science and, therefore, also about innovation ⚡. <br>🚀 In this regard, I am always looking for new stimuli and new technologies to explore.<br>
 🎯 In recent years my interest has shifted towards the world of Blockchain and Web 3.0 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"><br>
-🔐 I decided to delve into the issues of security and privacy in the blockchain field. Therefore, I chose to dedicate my master's thesis to <b>Zero Knowledge Proof</b> and the <b>auditing</b> of smart contracts that use them </p>
+🔐 I decided to delve into the issues of security and privacy in the blockchain field. Therefore, I chose to dedicate my master's thesis to <b>Zero Knowledge Proof</b> and the <b>auditing</b> of smart contracts that use them </p><br>
+<p>Discover my CTF team of which I am part of 👉 <a href="https://bytethecookies.github.io/">ByteTheCookies</a></p>
+
 
 
 <h2><p> 🛠 My technical skills:</p></h2>
@@ -61,7 +63,6 @@
  [<img src="assets/x.svg" width="48px" height="48px" style="margin-right:8px">](https://x.com/alessandrocav41)
  [<img src="assets/github.svg" width="48px" height="48px" style="margin-right:8px">](https://github.com/Alessandro-Cavaliere)
  [<img src="assets/gitlab.png" width="48px" height="48px" style="margin-right:8px">](https://gitlab.com/Alessandro-Cavaliere)
- [<img src="assets/stackoverflow.svg" width="48px" height="48px" style="margin-right:8px">](https://ethereum.stackexchange.com/users/99780/alexcav)
 </div>
 <div>
 
