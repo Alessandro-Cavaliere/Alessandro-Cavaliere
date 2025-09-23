@@ -1,22 +1,22 @@
 <div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&pause=1000&color=1A3F66&center=true&vCenter=true&width=430&lines=Silent+mind,+loud+ideas." alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&pause=1000&color=4A91B8&center=true&vCenter=true&width=430&lines=Silent+mind,+loud+ideas." alt="Typing SVG" />
 </div>
 <div align="center">
 <img align='center' src="assets/banner.gif" width="80%">
 </div>
-
+<br>
 <div align="center">
-<a href = "https://drive.google.com/file/d/1Q7qgT_pyMXa8CAR4AeUu5CSvvFZXSx4t/view?usp=sharing" ><img src="https://img.shields.io/badge/My%20CV-%40Alessandro_Cavaliere-blue" width="150" height="25"></a>
-<a href = "https://bytethecookies.github.io/" ><img src="https://img.shields.io/badge/My%20CTF%20Team-%20ByteTheCookies-d09e60" width="150" height="25"></a>
-<a href = "https://alessandro-cavaliere.eth.limo" ><img src="https://img.shields.io/badge/Website-My%20Portfolio-86343e" width="150" height="25"></a>
+<a href = "https://drive.google.com/file/d/1Q7qgT_pyMXa8CAR4AeUu5CSvvFZXSx4t/view?usp=sharing" ><img src="https://img.shields.io/badge/My%20CV-%40Alessandro_Cavaliere-blue" width="175" height="30"></a>
+<a href = "https://bytethecookies.github.io/" ><img src="https://img.shields.io/badge/My%20CTF%20Team-%20ByteTheCookies-d09e60" width="175" height="30"></a>
+<a href = "https://alessandro-cavaliere.eth.limo" ><img src="https://img.shields.io/badge/Website-My%20Portfolio%20Website-86343e" width="175" height="30"></a>
 </div>
 
 <h1 align="center">Hi there, I'm Alessandro. <br>Welcome to my GitHub profile  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"></h1>
-<div align="center" width="150px">
-<p>📚 <b>Blockchain Developer</b>, <b>Graduated MSc in Cybersecurity</b> at the University of Salerno and <b>CyberChallenge.IT</b> 2024 finalist 💻, Passionate about computer science and innovation ⚡. <br>🚀 I am constantly seeking new challenges and emerging technologies to explore.<br>
+
+<p>📚 <b>Blockchain Developer</b>, <b>Graduated MSc in Cybersecurity</b> at the University of Salerno and <a href = "https://cyberchallenge.it/" ><b>CyberChallenge.IT</b></a> 2024 finalist 💻, Passionate about computer science and innovation ⚡. <br>🚀 I am constantly seeking new challenges and emerging technologies to explore.<br>
 🎯 In recent years my interest has shifted towards the world of Blockchain and Web 3.0 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"><br>
-🔐 For my Master's Thesis I developed a research system written in Rust exploring <b>Zero-Knowledge Proofs</b> and <b>Zero-Knowledge Virtual Machines</b> for privacy-preserving smart contract vulnerability disclosure. The framework enables verifiable exploit demonstration without disclosing vulnerability details.</p><br>
-</div>
+🔐 For my Master's Thesis I developed a research framework written in Rust exploring <b>Zero-Knowledge Proofs</b> and <b>Zero-Knowledge Virtual Machines</b> for privacy-preserving smart contract vulnerability disclosure. This framework enables verifiable exploit demonstration without disclosing vulnerability details.</p>
+
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <h2><p> 🛠 My technical skills:</p></h2>
