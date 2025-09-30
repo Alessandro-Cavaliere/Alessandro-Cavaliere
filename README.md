@@ -6,7 +6,7 @@
 </div>
 <br>
 <div align="center">
-<a href = "https://drive.google.com/file/d/1Q7qgT_pyMXa8CAR4AeUu5CSvvFZXSx4t/view?usp=sharing" ><img src="https://img.shields.io/badge/My%20CV-%40Alessandro_Cavaliere-blue" width="175" height="30"></a>
+<a href = "https://drive.google.com/file/d/1USxAI2RlmiErVl-p65TnBVmgzXEg9qBP/view?usp=sharing" ><img src="https://img.shields.io/badge/My%20CV-%40Alessandro_Cavaliere-blue" width="175" height="30"></a>
 <a href = "https://bytethecookies.github.io/" ><img src="https://img.shields.io/badge/My%20CTF%20Team-%20ByteTheCookies-d09e60" width="175" height="30"></a>
 <a href = "https://alessandro-cavaliere.eth.limo" ><img src="https://img.shields.io/badge/Website-My%20Portfolio%20Website-86343e" width="175" height="30"></a>
 </div>
@@ -78,4 +78,5 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Alessandro-Cavaliere&style=for-the-badge&color=red)
 </div>
+
 
