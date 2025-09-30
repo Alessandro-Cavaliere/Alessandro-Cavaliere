@@ -23,7 +23,7 @@
 </p></h2>
 
 <p align = 'right'>
-<img align='right' src="assets/cats.gif" width="25%">
+<img align='right' src="assets/cats.gif" width="35%">
 </p>
 
 ### Back End:
@@ -78,3 +78,4 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Alessandro-Cavaliere&style=for-the-badge&color=red)
 </div>
+
